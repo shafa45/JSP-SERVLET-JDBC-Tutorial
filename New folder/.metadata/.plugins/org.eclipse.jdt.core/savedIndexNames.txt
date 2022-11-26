@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\ACER\java-web-workspace\New folder\.metadata\.plugins\org.eclipse.jdt.core
+2795787554.index

@@ -1,0 +1,13 @@
+127.0.0.1 - - [21/Nov/2022:09:16:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:16:53 +0530] "GET /TelephoneBillingSystemInJsp/index.jsp HTTP/1.1" 200 10668
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:17:01 +0530] "GET /TelephoneBillingSystemInJsp/comment-feedback.jsp HTTP/1.1" 200 6951
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:17:06 +0530] "GET /TelephoneBillingSystemInJsp/admin-login.jsp HTTP/1.1" 500 2390
+127.0.0.1 - - [21/Nov/2022:09:25:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:25:19 +0530] "GET /TelephoneBillingSystemInJsp/index.jsp HTTP/1.1" 200 10668
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:25:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:25:37 +0530] "GET /TelephoneBillingSystemInJsp/contact-us.jsp HTTP/1.1" 200 6952
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:25:38 +0530] "GET /TelephoneBillingSystemInJsp/comment-feedback.jsp HTTP/1.1" 200 6951
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:25:40 +0530] "GET /TelephoneBillingSystemInJsp/admin-login.jsp HTTP/1.1" 500 2390
+127.0.0.1 - - [21/Nov/2022:09:26:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:26:55 +0530] "GET /TelephoneBillingSystemInJsp/index.jsp HTTP/1.1" 200 10668
+0:0:0:0:0:0:0:1 - - [21/Nov/2022:09:27:00 +0530] "GET /TelephoneBillingSystemInJsp/admin-login.jsp HTTP/1.1" 500 2390
